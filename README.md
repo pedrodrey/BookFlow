@@ -4,13 +4,11 @@ O **BookFlow** é uma API REST desenvolvida para gerenciar livros e editoras, pe
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Node.js** – Runtime JavaScript no backend  
-- **TypeScript** – Superset de JavaScript com tipagem estática  
-- **Fastify** – Framework web leve e extremamente rápido  
-- **Prisma ORM** – Abstração para acesso ao banco de dados  
-- **MongoDB** – Banco de dados NoSQL escalável  
-- **@fastify/cors** – Middleware para controle de acesso cross-origin  
-- **Postman / Insomnia** – Ferramentas para testes de API  
+- **Node.js**
+- **TypeScript**
+- **Fastify** 
+- **Prisma ORM**  
+- **MongoDB**  
 
 ## 📁 Estrutura de Pastas
 
